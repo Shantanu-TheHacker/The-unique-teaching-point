@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TUTP - Learn and Grow</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="logo.png" alt="TUTP Logo">
+      <h1>TUTP - Learn and Grow</h1>
+    </div>
+  </header>
+
+  <main>
+    <section class="subjects">
+      <h2>Explore Subjects</h2>
+      <ul>
+        <li><a href="#science">Science</a></li>
+        <li><a href="#math">Mathematics</a></li>
+        <li><a href="#history">History</a></li>
+        <li><a href="#literature">Literature</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 TUTP.com. All rights reserved.</p>
+  </footer>
+</body>
+</html
